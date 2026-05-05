@@ -7,5 +7,6 @@ int main(){
     int n;
     cin >> n;
     cout << n;
+    cout << "beo beo ahmed mohsent";
     return 0;
 }
